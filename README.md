@@ -11,6 +11,8 @@ pkg fetch suricata
 pkg fetch -d suricata
 pkg fetch pfsense-pkg-suricata
 OR
+pkg install -F suricata <--Fetch-Only
+
 Create zip file for SCP
 ```
 
