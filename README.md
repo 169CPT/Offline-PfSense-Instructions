@@ -58,6 +58,6 @@ Browse to ensure it works: http://<xx.xx.xx.xx>:8000/
 #### Select Services --> Suricata --> Updates
 ![screenshot](/images/PfSense_et_open.PNG)
 
-#### Select Update
+#### Select --> Update
 
 ![screenshot](/images/PfSense_et_open_success.PNG)
