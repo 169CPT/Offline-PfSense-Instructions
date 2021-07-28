@@ -24,7 +24,7 @@ SCP zip file and extract
 
 ssh user@pfesnse
 
-pkg install /var/cache/pkg/*
+pkg install -f -l /var/cache/pkg/*
 ```
 
 # Offline PFSense Suricata ETOpen Rull install
