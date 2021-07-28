@@ -45,7 +45,7 @@ pkg install /var/cache/pkg/*
 python3 -m http.server
 `
 Browse to ensure it works: http://<xx.xx.xx.xx>:8000/
-![screenshot](images\PfSense_et_open_pytnohttp.PNG)
+![screenshot](/images/PfSense_et_open_pytnohttp.PNG)
 
 ## On PfSense
 
@@ -56,8 +56,8 @@ Browse to ensure it works: http://<xx.xx.xx.xx>:8000/
 #### In the ETOpen Custom Rule Download URL type in: http://<xx.xx.xx.xx>:8000/emerging-all.rules.tar.gz
 
 #### Select Services --> Suricata --> Updates
-![screenshot](images\PfSense_et_open.PNG)
+![screenshot](/images/PfSense_et_open.PNG)
 
 #### Select Update
 
-![screenshot](images\PfSense_et_open_success.PNG)
+![screenshot](/images/PfSense_et_open_success.PNG)
